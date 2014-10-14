@@ -5,4 +5,3 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Git no fast forward mode and stash will conflict
 Git stash function
-test another
